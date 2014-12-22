@@ -48,6 +48,7 @@ module.exports = [
   require('./lib/kissmetrics'),
   require('./lib/klaviyo'),
   require('./lib/livechat'),
+  require('./lib/localytics'),
   require('./lib/lucky-orange'),
   require('./lib/lytics'),
   require('./lib/mixpanel'),
